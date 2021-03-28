@@ -1,0 +1,99 @@
+{
+  "uid" : "ecc8005bd63f37de",
+  "name" : "测试用例01",
+  "fullName" : "testCase.testSN01.testSN01#test_01_00002",
+  "historyId" : "2a7cbf25f7f3125eb5ca4139019aeaae",
+  "time" : {
+    "start" : 1616910219590,
+    "stop" : 1616910269580,
+    "duration" : 49990
+  },
+  "description" : "test_01_00002",
+  "descriptionHtml" : "<p>test_01_00002</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "xunit_setup_class_fixture_testSN01",
+    "time" : {
+      "start" : 1616910215775,
+      "stop" : 1616910219580,
+      "duration" : 3805
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "afterStages" : [ {
+    "name" : "xunit_setup_class_fixture_testSN01::0",
+    "time" : {
+      "start" : 1616910269582,
+      "stop" : 1616910276267,
+      "duration" : 6685
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "story",
+    "value" : "食品-纯牛奶品类下搜索品牌，加入购物车进行结算"
+  }, {
+    "name" : "parentSuite",
+    "value" : "testCase"
+  }, {
+    "name" : "suite",
+    "value" : "testSN01"
+  }, {
+    "name" : "subSuite",
+    "value" : "testSN01"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-53RE7B7L"
+  }, {
+    "name" : "thread",
+    "value" : "20692-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testCase.testSN01"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "4ded0037a34f316e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1616908283251,
+        "stop" : 1616908294138,
+        "duration" : 10887
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ecc8005bd63f37de.json",
+  "parameterValues" : [ ]
+}

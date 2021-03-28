@@ -1,0 +1,54 @@
+-
+  url_: 'https://www.suning.com/'
+  food:
+    name: xpath
+    value: //a[text()="食品"]
+  milk:
+    name: xpath
+    value: //a[text()="纯牛奶"]
+  band:
+    name: id
+    value: searchKeywords
+    txt: 光明
+  searchS:
+    name: id
+    value: searchSubmit
+  addCart:
+    name: link text
+    value: 加入购物车
+  Cart:
+    name: xpath
+    value: //span[@class='tab-cart-tip']
+  settle:
+    name: link text
+    value: 去购物车结算
+  checkout:
+    name: link text
+    value: 去结算
+-
+  url_: 'https://www.suning.com/'
+  food:
+    name: xpath
+    value: //a[text()="食品"]
+  milk:
+    name: xpath
+    value: //a[text()="纯牛奶"]
+  band:
+    name: id
+    value: searchKeywords
+    txt: 蒙牛
+  searchS:
+    name: id
+    value: searchSubmit
+  addCart:
+    name: link text
+    value: 加入购物车
+  Cart:
+    name: xpath
+    value: //span[@class='tab-cart-tip']
+  settle:
+    name: link text
+    value: 去购物车结算
+  checkout:
+    name: link text
+    value: 去结算
